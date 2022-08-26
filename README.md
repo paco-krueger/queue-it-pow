@@ -1,1 +1,1 @@
-Queue It POW in python simple as that.
+Latest Queue It POW in python simple as that.
